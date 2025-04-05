@@ -7,6 +7,19 @@ To analyze and compare pricing, ratings, and discounts for popular electronic pr
 ## 🧠 Project Overview
 This end-to-end data analysis project involves web scraping, data cleaning, storage in a relational database, and dashboard creation to uncover insights from Amazon's electronic product listings.
 
+## 🎥 Project Walkthrough Video
+
+A detailed walkthrough of the entire project – from web scraping to dashboard insights – is available here:
+
+👉 [Watch the Project Video on Google Drive](https://drive.google.com/file/d/1-8LyUQlp1xnmNTWTnhgeDH92JTM_aP9v/view?usp=sharing)
+
+> This video covers:
+> - Project objectives and tools used
+> - Web scraping and data cleaning process
+> - SQL database setup and sample queries
+> - Power BI dashboard demonstration
+> - Key findings and insights
+
 ## ✅ Workflow Steps
 
 1. **Scraping**  
